@@ -7,13 +7,8 @@
     },
     {
       "id": 2,
-      "name": "Maria Julia da Silva",
+      "name": "Maria Julia",
       "email": "mjds@empresa.com"
-    },
-    {
-      "name": "Ana Silva",
-      "email": "anasilva@negocio.com.br",
-      "id": 3
     }
   ]
 }
